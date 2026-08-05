@@ -1,7 +1,7 @@
 # Write-up: New Caesar (cylabacademy)
 
 - **Category   :** Cryptography
-- **Difficulty :** Easy / Medium
+- **Difficulty :** Medium
 - **Author     :** Lim Almadyuni (Limath)
 - **Concepts   :** Base16 Custom Encoding, Caesar Cipher (Modulo Arithmetic), Brute-Force Key Space
 - **Link       :** https://learn.cylabacademy.org/learning-paths/17/136
