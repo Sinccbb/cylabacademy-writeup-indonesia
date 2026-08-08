@@ -1,4 +1,4 @@
-# Write-up: New Caesar (cylabacademy)
+# Write-up: Mind your Ps and Qs (cylabacademy)
 
 - **Category   :** Cryptography
 - **Difficulty :** Medium
