@@ -16,7 +16,9 @@ Catatan Tambahan Untuk RSA :
 
 Sebelum enkripsi dan dekripsi dapat dilakukan, pasangan kunci publik (Public Key) dan kunci privat (Private Key) harus dibuat melalui langkah-langkah berikut:
 
-- **Pemilihan Bilangan Prima :** Pilih dua bilangan prima rahasia berukuran besar $p$ dan $q$.Perhitungan Modulus $N$ : Hitung nilai $N$ yang akan digunakan sebagai batas modulus operasi: $$N = p \times q$$ 
+- **Pemilihan Bilangan Prima :** Pilih dua bilangan prima rahasia berukuran besar $p$ dan $q$.
+  
+- **Perhitungan Modulus $N$ :** Hitung nilai $N$ yang akan digunakan sebagai batas modulus operasi: $$N = p \times q$$ 
 
 - **Perhitungan Totient Euler $\phi(N)$ :** Hitung nilai fungsi totient untuk $N$ : $$\phi(N) = (p - 1) \times (q - 1)$$
 
