@@ -1,7 +1,7 @@
 # Write-up: Safe Opener(cylabacademy)
 
 - **Category   :** Safe Opener Series
-- **Difficulty :** Mediun
+- **Difficulty :** Medium
 - **Author     :** Mubarak Mikail
 - **Written by :** Lim Almadyuni (Limath)
 - **Concepts   :** Reverse Engineering
