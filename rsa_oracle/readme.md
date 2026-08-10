@@ -1,4 +1,4 @@
-# Write-up: [rsa_oracle]() cylabacademy
+# Write-up: [rsa_oracle](https://learn.cylabacademy.org/learning-paths/17/140) cylabacademy
 
 - **Category   :** Cryptography
 - **Difficulty :** Medium
