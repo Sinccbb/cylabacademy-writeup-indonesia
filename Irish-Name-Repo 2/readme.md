@@ -2,7 +2,7 @@
 
 - **Category   :** Web Exploitation
 - **Difficulty :** Easy
-- **Author     :** Chris Hensler
+- **Author     :** Xingyang Pan
 - **Written by :** Lim Almadyuni (Limath)
 ---
 
