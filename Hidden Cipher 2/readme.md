@@ -7,5 +7,4 @@
 ---
 
 ## Executive Summary
-## Flag
-```picoCTF{}```
+Kita akan disuruh menjalankan server lewat netcat, ketika dijalankan, kita akan diberikan pertanyaan matematika dasar, ketika kita menjawab dengan benar, kita akan diberikan sebuah list angka. Cara decode nya adalah bagi angka tersebut dengan jawaban yang kalian dapat.
